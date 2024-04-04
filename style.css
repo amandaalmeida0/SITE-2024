@@ -7,13 +7,13 @@ body{
     text-align: center;
 }
 h1{
-   color: blue;
+   color: black;
    font-size: 30pt;
    font-family: "Times New Roman";
    text-align: center;
 }
 h2{
-    color: red;
+    color: black;
     font-size: 30pt;
     font-family: "Times New Roman";
     text-align: center;
@@ -22,6 +22,19 @@ h2{
 li{
     color: green;
     font-size: 30pt;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-size: 30pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p{
+    font-size: 20pt;
     font-family: "Times New Roman";
     text-align: center;
 }
