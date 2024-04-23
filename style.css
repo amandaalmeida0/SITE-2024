@@ -38,3 +38,15 @@ p{
     font-family: "Times New Roman";
     text-align: center;
 }
+
+.impar{
+   color: red;
+   font-size: 16pt;
+   font-family: Arial;
+}
+
+.par{
+color: blue;
+font-size: 20pt;
+font-family: Verdana;
+}
